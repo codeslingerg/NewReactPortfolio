@@ -11,36 +11,36 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Flight Domain Travel Agency",
+        "startDate": "2023",
+        "description": "Group project completed during my time at Codex Academy.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "/images/code404found.png",
+          "/images/fdta1.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Horned Beasts",
+        "startDate": "2023",
+        "description": "Personal project for study subject. I was responsible for assisting a user with creating an application to filter out horned beasts.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "/images/Screen Shot 2023-08-20 at 1.34.45 PM.png",
+          "images/Screen Shot 2023-08-20 at 1.35.07 PM.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Chocolate Pizza",
+        "startDate": "2023",
+        "description": "I've learned a lot about sytling putting this page together.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/Screen Shot 2023-08-20 at 4.41.00 PM.png",
+          "images/"
         ],
         "url": "https://github.com",
         "technologies": [
