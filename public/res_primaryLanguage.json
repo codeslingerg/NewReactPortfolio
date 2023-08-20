@@ -42,7 +42,7 @@
           "/images/Screen Shot 2023-08-20 at 1.34.45 PM.png",
           "images/Screen Shot 2023-08-20 at 1.35.07 PM.png"
         ],
-        "url": "https://github.com",
+        "url": "https://horned-beastsgj.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -62,7 +62,7 @@
           "images/Screen Shot 2023-08-20 at 4.41.00 PM.png",
           "images/"
         ],
-        "url": "https://github.com",
+        "url": "chocolatepizza1.netlify.app",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,22 +81,22 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Codex Academy",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "1.23 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Coding 1/1/23"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "MongoDB",
+          "Python",
+          "FireBase"
         ]
       },
       {
